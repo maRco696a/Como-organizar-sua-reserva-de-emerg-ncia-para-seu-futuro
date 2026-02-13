@@ -2,30 +2,29 @@
 NotebookLM vai  ajudandar voce a fazer a escolha certa para seus investimentos
 
 
+# 💰 Como organizar sua reserva de emergência para seu futuro
 
-OBJETIVO
+Este projeto utiliza o **NotebookLM** para estruturar um plano de educação financeira focado em reserva de emergência.
 
-Como organizar sua reserva de emergência para seu futuro
--------------------------------------------------------------------------------
-FONTES DE VIDEOS
+## 🎯 Objetivo
 
-6 https://www.youtube.com/watch?v=LhJkuj4eGMc
+Como organizar sua reserva de emergência para garantir estabilidade e fazer escolhas certas para seus investimentos.
 
-5 https://youtu.be/NdftIuMS28M
+## 📚 Fontes Utilizadas
 
-4  https://www.youtube.com/watch?v=4sfeoqbiPo0 
+* **Oficiais:** Banco Central do Brasil (Cidadania Financeira).
+* **Vídeos:** Curadoria de 6 vídeos educativos sobre finanças e renda fixa.
+* **Materiais:** E-books sobre FGC, CDBs e análise de mercado de varejo.
 
-3  https://www.youtube.com/watch?v=gEdDyfEDQqc
+## 🧠 Glossário (Gerado via IA)
 
-2 https://www.youtube.com/watch?v=XGTBz6Eb3g8
+* **Liquidez:** Facilidade de resgate. Algumas aplicações só permitem o resgate no vencimento.
+* **Impostos:** Aplicações de renda fixa seguem a tabela regressiva de IR sobre o lucro.
+* **FGC:** Garantia para depósitos em bancos e cooperativas.
 
-1  https://youtu.be/qhh-tk09KRc
+## 🤖 Prompts de Estudo
+* "Quais são os riscos de investir em bancos de varejo?"
+* "Diferença entre conta digital e CDB com taxas altas."
 
--------------------------------------------------------------------------------
-links
-
-https://www.bcb.gov.br/cidadaniafinanceira
-
-https://www.idinheiro.com.br/investimentos/melhor-cdb-liquidez-diaria-hoje/
 
 
